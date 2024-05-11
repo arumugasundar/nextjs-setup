@@ -84,6 +84,8 @@ export { GET };
 
 ## Shadcn/ui Setup
 
+## Validation Setup
+
 ---
 1. To install zod - ```npm install zod```
 2. Create ```schemas``` folder in root directory
